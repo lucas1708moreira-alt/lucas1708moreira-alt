@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá! 👋 Eu sou o Lucas da Silva Moreira
 
-<!--
-**lucas1708moreira-alt/lucas1708moreira-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um profissional focado em Engenharia de Dados e Analytics, apaixonado por construir arquiteturas de dados eficientes de ponta a ponta. 
 
-Here are some ideas to get you started:
+Atualmente, estou me aprofundando em infraestrutura em nuvem, governança de dados e construção de pipelines robustos (estruturas Lake, Lakehouse, camadas Bronze/Silver/Gold).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Formação e Estudos
+- 📖 Cursando MBA em Data Science e IA na FIAP.
+- 📚 Aperfeiçoamento contínuo em estatística, machine learning e visualização de dados através da Alura.
+
+### 🛠️ Tecnologias e Ferramentas
+- **Linguagens & Banco de Dados:** Python, SQL (PostgreSQL, SQLite, AWS Athena), MongoDB.
+- **Nuvem & Infraestrutura:** AWS, GCP.
+- **Visualização & BI:** Power BI.
+
+### 📊 O que você vai encontrar por aqui
+- Projetos de Engenharia de Dados e pipelines automatizados.
+- Soluções de Analytics Engineering e modelagem de dados.
+- Aplicações de Inteligência Artificial e Generative AI.
+
+---
+📫 **Como me encontrar:**
+- **LinkedIn:** https://www.linkedin.com/in/lucas-moreira-027938199/
