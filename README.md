@@ -1,11 +1,12 @@
 # Olá! 👋 Eu sou o Lucas da Silva Moreira
 
-Sou um profissional focado em Engenharia de Dados e Analytics, apaixonado por construir arquiteturas de dados eficientes de ponta a ponta. 
+Sou um profissional focado em Ciência de Dados e Analytics, apaixonado por construir arquiteturas de dados eficientes de ponta a ponta. 
 
 Atualmente, estou me aprofundando em infraestrutura em nuvem, governança de dados e construção de pipelines robustos (estruturas Lake, Lakehouse, camadas Bronze/Silver/Gold).
 
 ### 🎓 Formação e Estudos
-- 📖 Cursando MBA em Data Science e IA na FIAP.
+- 📖 Cursei
+   MBA em Data Science e IA na FIAP.
 - 📚 Aperfeiçoamento contínuo em estatística, machine learning e visualização de dados através da Alura.
 
 ### 🛠️ Tecnologias e Ferramentas
